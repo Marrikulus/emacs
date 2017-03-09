@@ -17,8 +17,6 @@
 			   :ensure t)
 (use-package evil
 			   :ensure t)
-(use-package magit
-			   :ensure t)
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
